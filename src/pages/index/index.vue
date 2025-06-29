@@ -9,7 +9,6 @@
 
 <script setup>
   const title = "Hello"
-}
 </script>
 
 <style lang="scss" scoped>
